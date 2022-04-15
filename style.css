@@ -1,0 +1,99 @@
+*{
+
+font-size: 14px;
+font-family: sans-serif;
+
+}
+body{
+
+    background-color: beige
+}
+
+.container{
+    
+    padding: 100px;
+    display: flex;
+    
+    
+}
+
+
+#cell{
+    max-width: 550px;
+}
+
+.container2{
+
+    width: 500px;
+    height: 300px;
+    border: 1px solid rgb(221, 210, 210);
+    text-align: center;
+    background: white;
+}
+#logo{
+    padding: 20px;
+    max-width: 150px;
+}
+#foto{
+    max-width: 100px;
+    border-radius: 100%;
+    margin-top: -20px;
+    margin-bottom: 10px ;
+    
+}
+
+.btn-azul *{
+
+    background: rgb(11, 103, 189);
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+.conta p{
+
+    color: rgb(11, 103, 189);
+    margin-top: 40px;
+}
+
+.container3{
+    width: 500px;
+    height: 100px;
+    border: 1px solid rgb(221, 210, 210);
+    text-align: center;
+    background: white;
+    margin-top: 45px;
+}
+.container3 p{
+    color: rgb(199, 190, 190);
+    margin: 0px;
+    margin-top: 30px;
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+   
+}
+.container4 a{
+    text-decoration: none;
+    color: rgb(11, 103, 189);
+    padding: 0px;
+}
+#ou{
+    color: rgb(199, 190, 190);  
+}
+#apple{
+
+    max-width: 30%;
+    margin:5px;
+}
+
+#play{
+    max-width: 30%;
+    margin:5px;
+}
+
+.finale{
+    margin-top: 30px;
+}
